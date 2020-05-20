@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+theme: minima
+
+github_username: selber-ausmalen
+email: info@selber-ausmalen.de
 
 title: selber-ausmalen.de
