@@ -3,7 +3,7 @@ layout: default
 title: start
 ---
 
-# Kleidung und Accessoires kreativ gestalten
+# Kleidung & Accessoires kreativ gestalten
 
 Ob als Malspaß für Kinder, individuell gestaltetes Geschenk, oder für das selbst designte Statement-Piece.
 
