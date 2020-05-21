@@ -4,3 +4,9 @@ github_username: selber-ausmalen
 email: info@selber-ausmalen.de
 
 title: selber-ausmalen.de
+
+header_pages:
+  - index.md
+  - shop.md
+  - ideen.md
+  - impressum.md
