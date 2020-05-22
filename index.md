@@ -3,8 +3,8 @@ layout: default
 title: start
 ---
 
-# Kleidung & Accessoires kreativ gestalten
+# Selber kreativ gestalten
 
-Ob als Malspaß für Kinder, individuell gestaltetes Geschenk, oder für das selbst designte Statement-Piece.
+Ob als Malspaß für Kinder, individuell gestaltetes Geschenk, oder für das selbst designte Statement-Piece: hier findest Du Ideen rund um Kleidung & Accessoires zum selber gesalten.
 
-Einfach Design auswählen, zum Stift greifen und Spaß haben! Oder beim Ausmalen entspannen - heraus kommt ein besonderes Item, das sonst garantiert niemand hat!
+Einfach [Design](design.md) auswählen, zum Stift greifen und Spaß haben! Oder beim Ausmalen entspannen - heraus kommt ein besonderes Item, das sonst garantiert niemand hat!
