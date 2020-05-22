@@ -1,9 +1,9 @@
 ---
 layout: default
-title: farben
+title: farbe
 ---
 
-# farben & hilfsmittel
+# farbe & hilfsmittel
 
 ## textilien
 
