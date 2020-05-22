@@ -6,8 +6,7 @@ email: info@selber-ausmalen.de
 title: selber-ausmalen.de
 
 header_pages:
-  - index.md
+  - colors.md
   - designs.md
   - shop.md
-  - colors.md
   - about.md
