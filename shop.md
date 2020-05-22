@@ -1,6 +1,6 @@
 ---
 layout: default
-title: shop
+title: Kleidung & Accessoires
 ---
 
 <div id="myShop">
