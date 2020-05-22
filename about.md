@@ -12,6 +12,14 @@ Fritz-Wolfsberger-Str. 9
 Deutschland / Germany
 ```
 
+# Danksagung / Attribution
+
+## spreadshirt.de - Shop
+
+![](https://unsplash.com/photos/3DkouQeZjp4/download?w=640)
+
+Photo by [Denise Johnson on Unsplash](https://unsplash.com/@auntneecey)
+
 # Amazon Partnerprogramm
 
 Hinweise zur Verwendung von so genannten Affiliate Links.
