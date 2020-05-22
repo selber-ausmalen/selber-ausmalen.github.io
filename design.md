@@ -12,9 +12,9 @@ layout: default
 
 | beispiel(e) | auflösung (BxH) | pdf (a4) | source |
 |:---:|:--:|:--:|
-|![](https://i.pinimg.com/236x/d1/97/1b/d1971b5caa755512c92e8dfeb37a07c7--pixel-art-game-art.jpg)| 8x8 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)]() | [SVG](https://selber-ausmalen.de/designs/pixel-art/8x8.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/8x8.png) |
-|![](http://www.photonstorm.com/wp-content/uploads/2011/09/favicons-largeFFS.gif)| 16x16 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)]() | [SVG](https://selber-ausmalen.de/designs/pixel-art/16x16.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/16x16.png) |
-|![](https://i.pinimg.com/236x/af/c6/aa/afc6aab4abe2000591db02e5cbbf325e.jpg)| 32x32 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)]() | [SVG](https://selber-ausmalen.de/designs/pixel-art/32x32.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/32x32.png) |
+|![](https://i.pinimg.com/236x/d1/97/1b/d1971b5caa755512c92e8dfeb37a07c7--pixel-art-game-art.jpg)| 8x8 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/8x8.pdf) | [SVG](https://selber-ausmalen.de/designs/pixel-art/8x8.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/8x8.png) |
+|![](http://www.photonstorm.com/wp-content/uploads/2011/09/favicons-largeFFS.gif)| 16x16 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/16x16.pdf) | [SVG](https://selber-ausmalen.de/designs/pixel-art/16x16.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/16x16.png) |
+|![](https://i.pinimg.com/236x/af/c6/aa/afc6aab4abe2000591db02e5cbbf325e.jpg)| 32x32 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/32x32.pdf) | [SVG](https://selber-ausmalen.de/designs/pixel-art/32x32.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/32x32.png) |
 
 ## low poly art
 
