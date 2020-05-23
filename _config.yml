@@ -3,6 +3,8 @@ theme: minima
 github_username: selber-ausmalen
 email: info@selber-ausmalen.de
 
+baseurl: selber-ausmalen.github.io
+
 title: selber-ausmalen.de
 
 header_pages:
