@@ -15,6 +15,9 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
       run: |
+        REPO_NAME=${{ github.repository }}
+        REPO_NAME=${REPO_NAME##*/}
         docker run \
+        -e REPO_NAME \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+        jekyll/builder:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --baseurl $REPO_NAME"
