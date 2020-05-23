@@ -10,7 +10,7 @@ layout: default
 
 [Pixel-Art](https://de.m.wikipedia.org/wiki/Pixel-Art) ist eine Stilrichtung in der Computerkunst, die Rastergrafiken verwendet und dabei das beschränkte Auflösungsvermögen von Bildschirmen als Stilmittel bewusst herausstellt. Sie nimmt dabei – teils ironisch – Bezug auf die Anfänge der Bildschirmgrafik von Video- und Computerspielen sowie der grafischen Benutzeroberflächen von Computern in den 1980er und frühen 1990er Jahren.
 
-| beispiel(e) | auflösung (BxH) | pdf (A4) | Bilddateien |
+| beispiel(e) | auflösung (BxH) | pdf (A4) | bilddateien |
 |:---:|:--:|:--:|
 |![](https://i.pinimg.com/236x/d1/97/1b/d1971b5caa755512c92e8dfeb37a07c7--pixel-art-game-art.jpg)| 8x8 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/8x8.pdf) | [SVG](https://selber-ausmalen.de/designs/pixel-art/8x8.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/8x8.png) |
 |![](http://www.photonstorm.com/wp-content/uploads/2011/09/favicons-largeFFS.gif)| 16x16 | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/16x16.pdf) | [SVG](https://selber-ausmalen.de/designs/pixel-art/16x16.svg) / [PNG](https://selber-ausmalen.de/designs/pixel-art/16x16.png) |
@@ -22,7 +22,7 @@ Low poly art verwendet Netze aus wenigen Polygonen (z.B. Dreiecken) zur graphisc
 
 ### Kolibri
 
-| beispiel(e) | pdf (A4) | Bilddateien |
+| beispiel(e) | pdf (a4) | bilddateien |
 |:---:|:--:|:--:|
 |![](selber-ausmalen.de/designs/low-poly-art/kolibri_genau_angemalt.svg)| [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/low-poly-art/kolibri_genau_sw.pdf) | [SVG](https://selber-ausmalen.de/designs/low-poly-art/kolibri_genau_sw.svg) |
 
