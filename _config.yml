@@ -4,8 +4,6 @@ github_username: selber-ausmalen
 email: info@selber-ausmalen.de
 description: Selber kreativ gestalten
 
-baseurl: selber-ausmalen.github.io
-
 title: selber-ausmalen.de
 
 header_pages:
@@ -13,3 +11,6 @@ header_pages:
   - color.md
   - shop.md
   - about.md
+
+plugins:
+  - "jekyll-github-metadata"
