@@ -14,3 +14,5 @@ header_pages:
 
 plugins:
   - "jekyll-github-metadata"
+
+repository: selber-ausmalen/selber-ausmalen.github.io
