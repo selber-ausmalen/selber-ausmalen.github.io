@@ -20,9 +20,8 @@ layout: default
 
 Low poly art verwendet Netze aus wenigen Polygonen (z.B. Dreiecken) zur graphischen Darstellung. Einfache geometrische Formen werden verbunden zu oft minimalistischen Kompositionen.
 
-### Kolibri
-
-| beispiel(e) | pdf (a4) | bilddateien |
+| design | beispiel | pdf (A4) |
 |:---:|:--:|:--:|
-|![](selber-ausmalen.de/designs/low-poly-art/kolibri_genau_angemalt.svg)| [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/low-poly-art/kolibri_genau_sw.pdf) | [SVG](https://selber-ausmalen.de/designs/low-poly-art/kolibri_genau_sw.svg) |
+| [![](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_v1.svg)](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_v1.svg) | [![](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_painted_v1.svg)](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_painted_v1.svg | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_v1.pdf) |
+| [![](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_v2.svg)](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_v2.svg) | [![](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_painted_v2.svg)](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_painted_v2.svg | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/low-poly-art/hummingbird_v2.pdf) |
 
