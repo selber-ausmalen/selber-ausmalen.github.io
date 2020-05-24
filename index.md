@@ -5,7 +5,7 @@ title: start
 
 ![](https://unsplash.com/photos/3DkouQeZjp4/download?w=640)
 
-# Selber kreativ gestalten
+# Selber kreativ gestalten!
 
 Ob als Malspaß für Kinder, individuell gestaltetes Geschenk, oder für das selbst designte Statement-Piece: hier findest Du Ideen rund um [Kleidung & Accessoires](shop.md) zum selber gesalten.
 
