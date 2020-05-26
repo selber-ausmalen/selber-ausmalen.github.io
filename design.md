@@ -3,7 +3,7 @@ layout: default
 title: design
 ---
 
-# design(s)
+# design
 
 | [pixel art](design/pixel-art/index.md) | ![](https://selber-ausmalen.de/designs/pixel-art/16x16.svg) |
 |:--:|:--:|
