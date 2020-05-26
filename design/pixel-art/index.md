@@ -9,6 +9,8 @@ layout: default
 
 [Pixel-Art](https://de.m.wikipedia.org/wiki/Pixel-Art) ist eine Stilrichtung in der Computerkunst, die Rastergrafiken verwendet und dabei das beschränkte Auflösungsvermögen von Bildschirmen als Stilmittel bewusst herausstellt. Sie nimmt dabei – teils ironisch – Bezug auf die Anfänge der Bildschirmgrafik von Video- und Computerspielen sowie der grafischen Benutzeroberflächen von Computern in den 1980er und frühen 1990er Jahren.
 
+Vielleicht könnt ihr euch noch an die Zeiten erinnern, in denen ihr selber als Kinder Spaß hattet mit Games auf der Playstation oder auf dem ersten Gameboy. Heute sind sie vielleicht technisch überholt, aber es gibt sie immer noch, die guten alten Pixelgrafiken - und erleben unter Kultstatus ihr Comeback. Selber-anmalen.de zeigt, wie ihr die coolen alten Zeiten wieder aufleben lassen könnt. Hier findet ihr kostenlose Vorlagen zur Gestaltung eurer Lieblings-Pixelgrafiken - entweder auf Papier oder auf Textil!
+
 ## beispiele
 
 | beispiel(e) | auflösung (BxH) | pdf (a4) | source |
