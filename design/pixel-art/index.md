@@ -11,7 +11,7 @@ Vielleicht könnt ihr euch noch an die Zeiten erinnern, in denen ihr selber als 
 
 [Pixel-Art](https://de.m.wikipedia.org/wiki/Pixel-Art) ist eine Stilrichtung in der Computerkunst, die Rastergrafiken verwendet und dabei das beschränkte Auflösungsvermögen von Bildschirmen als Stilmittel bewusst herausstellt. Sie nimmt dabei – teils ironisch – Bezug auf die Anfänge der Bildschirmgrafik von Video- und Computerspielen sowie der grafischen Benutzeroberflächen von Computern in den 1980er und frühen 1990er Jahren.
 
-## designs
+## start
 
 | textilien & auflösung (BxH)  | beispiel(e) | format(e) |
 |:--:|:--:|:--:|
@@ -26,6 +26,6 @@ Vielleicht könnt ihr euch noch an die Zeiten erinnern, in denen ihr selber als 
 
 {% include youtube.html id="gdWiTfzXb1g" %}
 
-## weitere idee(n)
+## weitere ideen
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Le_logo_version_Pixel-Art_de_South_Park_Studios.png)
