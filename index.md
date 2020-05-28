@@ -3,7 +3,7 @@ layout: default
 title: start
 ---
 
-![](https://unsplash.com/photos/3DkouQeZjp4/download?w=640)
+<img src="https://unsplash.com/photos/3DkouQeZjp4/download?w=1024" width="100%">
 
 # Selber kreativ gestalten!
 
