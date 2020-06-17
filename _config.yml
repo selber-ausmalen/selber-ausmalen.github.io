@@ -16,3 +16,5 @@ plugins:
   - "jekyll-github-metadata"
 
 repository: selber-ausmalen/selber-ausmalen.github.io
+
+google_analytics: UA-167429523-1
