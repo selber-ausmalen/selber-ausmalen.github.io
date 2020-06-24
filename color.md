@@ -1,6 +1,6 @@
 ---
 layout: default
-title: farbe(n)
+title: farben
 ---
 
 # farben & hilfsmittel
