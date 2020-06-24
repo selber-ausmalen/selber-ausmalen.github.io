@@ -3,7 +3,7 @@ layout: default
 title: farbe(n)
 ---
 
-# farbe(n) & hilfsmittel
+# farben & hilfsmittel
 
 ## für textilien
 
