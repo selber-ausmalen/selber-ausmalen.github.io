@@ -1,9 +1,9 @@
 ---
 layout: default
-title: design
+title: design(s)
 ---
 
-# design
+# design(s)
 
 | [clip art](design/clip-art/index.md) | [<img src="https://selber-ausmalen.de/designs/clip-art/fox.svg" height="256">](design/clip-art/index.md) |
 |:--:|:--:|
