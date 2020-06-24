@@ -9,7 +9,7 @@ Low poly art verwendet Netze aus wenigen Polygonen (z.B. Dreiecken) zur graphisc
 
 ## start
 
-| textilien  | vorlage(n) |
+| textilien  | vorlagen |
 |:--:|:--:|
 |[![](butterfly.jpg) <br> **Schmetterling**](https://selber-ausmalen.de/shop.html#!/low+poly+art+-+schmetterling?idea=5ecc3a48e447421121d294b2) | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/low-poly-art/butterfly.pdf) <br> [SVG](https://github.com/selber-ausmalen/designs/blob/master/low-poly-art/butterfly.svg) |
 |[![](guppy.jpg) <br> **Guppy**](https://selber-ausmalen.de/shop.html#!/low+poly+art+-+guppy?idea=5ed777565fd3e4562b8216e4) | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/low-poly-art/guppy.pdf) <br> [SVG](https://github.com/selber-ausmalen/designs/blob/master/low-poly-art/guppy.svg) |
