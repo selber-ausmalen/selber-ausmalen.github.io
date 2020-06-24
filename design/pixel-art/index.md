@@ -13,7 +13,7 @@ Vielleicht könnt ihr euch noch an die Zeiten erinnern, in denen ihr selber als 
 
 ## start
 
-| textilien & auflösung (BxH)  | beispiel(e) | vorlage(n) |
+| textilien & auflösung (BxH)  | ideen | vorlagen |
 |:--:|:--:|:--:|
 |[![](8x8.jpeg) <br> **8x8**](https://selber-ausmalen.de/shop.html#!/pixel-art+-+8x8+-+black?idea=5ec82c6122250929d5c62c7e)  |![](https://i.pinimg.com/236x/d1/97/1b/d1971b5caa755512c92e8dfeb37a07c7--pixel-art-game-art.jpg) | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/8x8.pdf) <br> [SVG](https://github.com/selber-ausmalen/designs/blob/master/pixel-art/8x8.svg) <br> [PNG](https://selber-ausmalen.de/designs/pixel-art/8x8.png) |
 |[![](16x16.jpeg) <br> **16x16**](https://selber-ausmalen.de/shop.html#!/pixel-art+-+16x16+-+black?idea=5ec599b5e447421121711b63) |![](http://www.photonstorm.com/wp-content/uploads/2011/09/favicons-largeFFS.gif) | [![](https://upload.wikimedia.org/wikipedia/commons/8/84/Farm-Fresh_file_extension_pdf.png)](https://selber-ausmalen.de/designs/pixel-art/16x16.pdf) <br> [SVG](https://github.com/selber-ausmalen/designs/blob/master/pixel-art/16x16.svg) <br> [PNG](https://selber-ausmalen.de/designs/pixel-art/16x16.png) |
